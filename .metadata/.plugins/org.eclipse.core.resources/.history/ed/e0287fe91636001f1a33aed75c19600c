@@ -1,0 +1,5 @@
+package com.procat.services;
+
+public interface ProductService {
+
+}

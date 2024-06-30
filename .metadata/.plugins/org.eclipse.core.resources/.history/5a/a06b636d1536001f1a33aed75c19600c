@@ -1,0 +1,5 @@
+package com.procat.repositories;
+
+public interface CategoryRepository {
+
+}

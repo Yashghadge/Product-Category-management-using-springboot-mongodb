@@ -1,0 +1,14 @@
+package com.procat.services;
+
+import java.util.List;
+
+import com.procat.dto.ProductDto;
+
+public interface CategoryService {
+	List<ProductDto> getAllCategories();
+	
+	ProductDto getCategoryById(String id);
+	ProductDto addCategory(ProductDto productDto);
+	ProductDto updateCategory(ProductDto productDto);
+	void deleteCategory(String id);
+}

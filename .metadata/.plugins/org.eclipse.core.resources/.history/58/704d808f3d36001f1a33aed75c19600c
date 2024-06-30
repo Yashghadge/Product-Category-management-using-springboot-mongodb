@@ -1,0 +1,5 @@
+package com.procat.controllers;
+
+public class CategoryController {
+
+}

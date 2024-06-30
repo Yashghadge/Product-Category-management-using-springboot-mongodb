@@ -1,0 +1,5 @@
+package com.procat.dto;
+
+public class ProductDto {
+
+}

@@ -1,0 +1,5 @@
+package com.procat.services.implementation;
+
+public class CategoryServiceImpl {
+
+}
